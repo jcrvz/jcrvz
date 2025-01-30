@@ -21,7 +21,7 @@ I'm **Jorge Mario Cruz-Duarte**, a Postdoctoral Researcher at the [Equipe de Rec
 - 📫 **Contact**:
   - Email: jorge [dot] cruz-duarte [at] univ-lille [dot] fr
   - [Google Scholar](https://scholar.google.com/citations?user=jpu4kWUAAAAJ&hl=en)
-  - [OrcID]([https://orcid.org](https://orcid.org/0000-0003-4494-7864))
+  - [OrcID](https://orcid.org/0000-0003-4494-7864)
   - [ResearchGate](https://www.researchgate.net/profile/Jorge-Cruz-Duarte)
   - [LinkedIn](www.linkedin.com/in/jm-cruzduarte)
   - [GitHub](https://github.com/jcrvz)
